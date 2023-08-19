@@ -4,7 +4,7 @@ My name Evander Gabriel👋
 for now i'm a **student** at Christian University Duta Wacana  
 i'm currently learning at **Bangkit 2023 Machine Learning Path**  
 
-if you want talk to me there is my [Linkedin](www.linkedin.com/in/ev-gb)  
+if you want talk to me there is my [Linkedin](https://www.linkedin.com/in/ev-gb)  
 Dont forget to click it!!
 
 <p align="left">
