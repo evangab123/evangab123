@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there!
+My name Evander Gabriel👋
+
+for now i'm a **student** at Christian University Duta Wacana  
+i'm currently learning at **Bangkit 2023 Machine Learning Path**  
+
+if you want talk to me there is my [Linkedin](www.linkedin.com/in/ev-gb)  
+Dont forget to click it!!
+
 
 <!--
 **evangab123/evangab123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
