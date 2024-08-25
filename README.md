@@ -1,7 +1,7 @@
 ### Hi there!
 My name Evander Gabriel👋
 
-for now i'm a **student** at Christian University Duta Wacana  
+for now i'm a **student** at Duta Wacana Christian University  
 i'm **Full Graduate Bangkit 2023 Machine Learning Path**  
 
 if you want talk to me there is my [Linkedin](https://www.linkedin.com/in/ev-gb)  
